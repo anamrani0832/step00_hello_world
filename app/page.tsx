@@ -11,6 +11,8 @@ export default function Home() {
       <h1 className="title">Welcome To AnamTech</h1>
       <br />
       Read My <Link href="/name">Name</Link>
+      <br />
+      Visit my posts<Link href = "/anam"> Go To Anam Page </Link>
     </div>
   );
 }
